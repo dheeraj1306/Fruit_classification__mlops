@@ -5,3 +5,7 @@ __pycache__
 .FruitAPI.pem
 .mlflow.db
 .prediction_logs.csv
+*.pem
+*.db
+.env
+.env.*
